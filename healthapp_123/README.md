@@ -1,4 +1,6 @@
 ![image](https://github.com/Johann-George/Health_app/assets/103820529/6a699cfc-df6c-4d05-9bca-8d8db0d97187)
+![image](https://github.com/Johann-George/Health_app/assets/103820529/daef4f40-50b1-4c66-b38a-b95aa83d266a)
+
 <br>
 **Code Purpose**: This code calculates Body Mass Index (BMI), provides nutrition-related information, and stores user data in a MySQL database.
 
