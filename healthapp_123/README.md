@@ -1,8 +1,10 @@
 ![image](https://github.com/Johann-George/Health_app/assets/103820529/6a699cfc-df6c-4d05-9bca-8d8db0d97187)
 ![image](https://github.com/Johann-George/Health_app/assets/103820529/daef4f40-50b1-4c66-b38a-b95aa83d266a)
 ![image](https://github.com/Johann-George/Health_app/assets/103820529/2c42a64e-50eb-4501-8fac-6d52bbd811dd)
+![image](https://github.com/Johann-George/Health_app/assets/103820529/cbf2d00d-e169-4838-afa4-b7de304bca69)
 
 <br>
+
 **Code Purpose**: This code calculates Body Mass Index (BMI), provides nutrition-related information, and stores user data in a MySQL database.
 
 **BMI Calculation**: BMI is calculated using the formula BMI = weight (kg) / (height (m) * height (m)). The code first parses the input values and then applies this formula to calculate BMI.
